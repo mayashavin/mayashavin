@@ -30,7 +30,7 @@ If you like my work, [support me with a coffee](https://www.buymeacoffee.com/VTL
 
 ## 👩‍💻 My website - articles, talk videos, conference schedule and project highlights
 
-<img src="https://github.com/mayashavin/mayashavin/assets/6650139/693cc52d-4ebc-4f61-9257-c91d845b9647" alt="Maya Shavin Portfolio Website" height="400"/>
+<img src="https://res.cloudinary.com/mayashavin/image/upload/f_auto,q_auto/v1722541534/mayashavin/banner" alt="Maya Shavin Portfolio Website" height="400"/>
 
 [Maya Shavin portfolio](https://mayashavin.com/) - Where I share my experience and practice for web development, testing, UI/UX, accessibility through writing, and other information like podcasts I did as guests, talk videos, my conference schedule, etc.
 
