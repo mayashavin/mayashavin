@@ -1,6 +1,6 @@
 Welcome to my GitHub Page!
 
-My name is Maya and I'm currently a Senior Software Engineer at Microsoft, with a unique blend of an MBA, M.Sc in Computer Science, and a BA in Economics. Specializing in the web development, my skills stretch across TypeScript, Vue, React, CSS, and more. Beyond coding, I'm an [international speaker](https://mayashavin.com/speaker) and published author, advocating passionately for web development, UX/UI, Accessibility, and robust coding standards. And recently, AI and LLM services catch my attention 😉.
+My name is Maya and I'm currently working as a Lead Software Engineer at Salesforce, previously at Microsoft, where I am responsible for leading and developing accessible cloud & AI applications. With a unique blend of an MBA, B.Sc in Computer Science, and a BA in Economics and specializing in the web development, my skills stretch across TypeScript, Vue, React, CSS, and more. Beyond coding, I'm an [international speaker](https://mayashavin.com/speaker) and published author, advocating passionately for web development, UX/UI, Accessibility, and robust coding standards. And recently, AI and LLM services catch my attention 😉.
 
 Besides speaking at conferences, I often blog about my coding journey, and share my experience not only about the Web development but also about other aspect of software engineering on [my personal site](https://mayashavin.com/articles). Also certainly, contributing to open-source projects, whenever I can.
 
@@ -15,8 +15,8 @@ If you like my work, [support me with a coffee](https://www.buymeacoffee.com/VTL
 - Dev.to - [@mayashavin](https://www.dev.to/mayashavin)
 - Medium blog - [@mayashavin](https://medium.com/@mayashavin)
 - Facebook - [@mayashavin](https://www.facebook.com/mayashavin)
-- YouTube Channel (upcoming) - [Code with Maya Shavin](https://www.youtube.com/channel/UCQGTgpPNkwo14of72nX3aSw)
-- Podcast Channel (soon).
+- YouTube Channel - [Build with Maya Shavin](https://www.youtube.com/channel/UCQGTgpPNkwo14of72nX3aSw)
+- Podcast - [Build With Maya](https://open.spotify.com/episode/2aI28x1tqsm88IiPWEBz6S?si=42YIWxQdSxe2f-K6RRwPmQ).
 
 ## 📚 My publications
 
